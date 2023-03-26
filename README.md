@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mArviN
-- 👀 I’m interested in ...C# Coding
+- 👀 I’m interested in Python, C++ Coding
 - 🌱 I’m currently learning ...C# and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
